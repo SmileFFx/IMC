@@ -20,20 +20,6 @@ Calculadora desenvolvida em Python para calcular o Índice de Massa Corporal (IM
 
 ---
 
-## Como usar
-
-1. Execute o script no terminal:
-
-```
-python IMC.py
-```
-
-2. Digite seu nome, idade, altura e peso conforme solicitado.
-3. O programa exibirá seu IMC e a classificação correspondente.
-4. Ao final, escolha se deseja reiniciar ou encerrar o programa.
-
----
-
 ## Exemplo de execução
 
 ```
